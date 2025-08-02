@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Raashid and I'm a  Ethical Hacker |  Security Researcher |  Developer | Passionate about Cybersecurity & Secure Code.</h2>
+<h2 align="left">Hi 👋! My name is Muhammed Raashid and I'm a  Ethical Hacker |  Security Researcher |  Developer | Passionate about Cybersecurity & Secure Code.</h2>
 
 ###
 
